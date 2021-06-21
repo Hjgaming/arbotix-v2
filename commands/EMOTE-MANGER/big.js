@@ -1,7 +1,7 @@
 module.exports = {
   name: "big",
     description:
-      `Give Big Result Of Emoji  ! credit to [LΣGΣПD and ant ](https://github.com/legend-js-dev/emote-manager/tree/main) `,
+      `Give Big Result Of Emoji  ! credit to [legendjs#1 and ant ](https://github.com/legend-js-dev/emote-manager/tree/main) `,
     usage: "big <emoji>",
     category: "emote-manger",
   run: async(client, message, args) => {
