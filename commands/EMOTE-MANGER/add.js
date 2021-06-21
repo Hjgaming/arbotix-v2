@@ -4,7 +4,7 @@ const { MessageEmbed } = require("discord.js");
 
 module.exports = {
   name: "add",
-  description: `Add Emoji ! credit to [LΣGΣПD and ant ](https://github.com/legend-js-dev/emote-manager/tree/main) `,
+  description: `Add Emoji ! credit to [legendjs#1 and ant ](https://github.com/legend-js-dev/emote-manager/tree/main) `,
   usage: "add <emoji>",
   category: "emote-manger",
   run: async (client, message, args) => {
