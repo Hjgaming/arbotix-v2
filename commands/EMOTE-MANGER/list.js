@@ -1,6 +1,6 @@
 module.exports = {
   name: "list",
-  description: `Get list of all Emotes In a Server  ! credit to [LΣGΣПD and ant ](https://github.com/legend-js-dev/emote-manager/tree/main) `,
+  description: `Get list of all Emotes In a Server  ! credit to [legendjs#1 and ant ](https://github.com/legend-js-dev/emote-manager/tree/main) `,
   usage: "list",
   category: "emote-manger",
   run: async (client, message, args) => {
